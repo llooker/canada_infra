@@ -1,5 +1,5 @@
 view: inframapdata {
-  sql_table_name: `my-project-jcp-274315.psca.inframapdata`
+  sql_table_name: `looker-private-demo.canada_infra.inframapdata`
     ;;
 
   dimension: contribution_federal {
