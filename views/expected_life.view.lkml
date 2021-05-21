@@ -1,5 +1,5 @@
 view: expected_life {
-  sql_table_name: `my-project-jcp-274315.psca.expected_life`
+  sql_table_name: `looker-private-demo.canada_infra.expected_life`
     ;;
 
   dimension: avg_age {
