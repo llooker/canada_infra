@@ -1,7 +1,8 @@
-connection: "ps-bq-jcp"
+connection: "looker-private-demo"
 
 # include all the views
 include: "/views/**/*.view"
+include: "/dashboards/*.dashboard"
 
 datagroup: psca_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
